@@ -28,4 +28,4 @@ Ambimu is an innovative application designed to enhance your daily experiences b
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Ambimu.git
+   git clone https://github.com/maestromaximo/Ambimu.git
